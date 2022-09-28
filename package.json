@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-curso-platzi",
+  "version": "1.0.0",
+  "description": "Paquete de NPM creado en el curso de Platzi: Gestión de paquetes y dependencias en JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGarRod/random-str-msg-curso-platzi.git"
+  },
+  "keywords": [],
+  "author": "Pablo Garcia <pablogarcirodriguez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloGarRod/random-str-msg-curso-platzi/issues"
+  },
+  "homepage": "https://github.com/PabloGarRod/random-str-msg-curso-platzi#readme",
+  "bin":{
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true 
+}
